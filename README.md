@@ -4,7 +4,7 @@
 Programmer Open Source <> Content Creator <> Udah Gak usah nanyak nanyak
 
 </h3><br/>
-<p align="center"> <img src="https://raw.githubusercontent.com/permadistudio/p/main/animal.gif" alt="Permadi"/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/permadistudio/permadistudio/main/e18518c6d24257c6fb02e3c95a862d85.gif" alt="Permadi"/> </p>
 <br/>
 
 - 🔭 I’m currently working on **Web Development**
